@@ -224,5 +224,3 @@ if __name__ == "__main__":
     app = SmartHomeGUI(home_automation)
     app.simulation_loop()
     app.mainloop()
-
-
